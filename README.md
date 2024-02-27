@@ -1,5 +1,7 @@
 # Base layout template with  SCSS and Stylelint
 - [DEMO](https://dimkamg21.github.io/nothing-landing/)
+- [MOCKUP](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&mode=design&t=l1z62gJj968tDW2M-0)
+
 
 ## Nothing Page Landing
 
