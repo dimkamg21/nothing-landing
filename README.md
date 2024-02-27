@@ -1,11 +1,11 @@
 # Base layout template with  SCSS and Stylelint
-    - [DEMO LINK](https://dimkamg21.github.io/nothing-landing/)
+- [DEMO](https://dimkamg21.github.io/nothing-landing/)
 
 ## Nothing Page Landing
 
 ## Description.
 
-This is a user-friendly landing page created using HTML, SCSS, and BEM methodology. This project is an example of how code can be organized and structured using BEM, which makes it easy to maintain and extend. 
+This is a user-friendly landing page created using HTML, SCSS, and BEM methodology. This project is an example of how code can be organized and structured using BEM, which makes it easy to maintain and extend.
 
 ## Structure
 
@@ -14,8 +14,9 @@ The project consists of the following files and folders:
 - `index.html` - the main HTML page.
 - `styles/` - folder with SCSS files.
   - `main.scss` - the main SCSS file that imports all other SCSS files.
-  - `_variables.scss` - file with global variables.
-  - `_mixins.scss` - file with SCSS mixins.
+  - `utils/` - folder with utils files.
+    - `_variables.scss` - file with global variables.
+    - `_mixins.scss` - file with SCSS mixins.
   - `blocks/` - folder with SCSS files for each component.
 
 ## Launching
