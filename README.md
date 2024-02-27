@@ -5,7 +5,7 @@
 
 ## Description.
 
-This is a user-friendly landing page created using HTML, SCSS, and BEM methodology. This project is an example of how code can be organized and structured using BEM, which makes it easy to maintain and extend.
+This is a user-friendly landing page created using HTML, SCSS, and BEM methodology. This project is an example of how code can be organized and structured using BEM, which makes it easy to maintain and extend. 
 
 ## Structure
 
